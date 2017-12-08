@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">City Tele Coin Inc.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="CTC_Logo">ctc_logo</string>
+    <string name="apps">Apps</string>
+    <string name="inmateServices">Services</string>
+    <string name="logout">Logout</string>
+
+    <string name="submit">Login</string>
+    <string name="instructions">Enter Pin to Login</string>
+
+</resources>
